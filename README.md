@@ -6,6 +6,7 @@
 * 精简编译版本即为对应频道的一种爬墙插件+默认插件             
 * 多插件编译版本即为对应频道的一种爬墙插件+较多实用插件               
 * 下面三大频道的固件编译自各个爬墙插件作者原生适配自己爬墙插件的op源码分叉，避免了杂交爬墙插件和op源码分叉可能导致的bug，最大限度发挥各个爬墙插件作者的本来意图，保证你反馈的bug各个爬墙插件作者最大可能复现并解决！          
+* 下方ssrpOpenWRT、passwallOpenWRT固件，分别为ssrp、passwall插件开发者认证的半官方发布固件       
 ———————————————————-                 
 【多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWRT分叉](https://github.com/coolsnowwolf/lede) 。推荐小白及不爱折腾用户使用】：              
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
