@@ -21,4 +21,5 @@
 ————————————————————        
 友链            
 * [机场](./youlian/jichang.md)               
+* [Hyird倾情打造源安装插件OpenWRT固件](./youlian/Hyird1.md)               
 
