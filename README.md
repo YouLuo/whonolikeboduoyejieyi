@@ -16,5 +16,4 @@
 【多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [Lean/lede](https://github.com/coolsnowwolf/lede) 。推荐动手能力超强喜爱究极自定义的专业用户使用】：      
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)              
 ____________________        
-[总频道](https://t.me/OpenWRTcn)             
-————————————————————
+* [总频道](https://t.me/OpenWRTcn)             
