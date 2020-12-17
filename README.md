@@ -12,7 +12,9 @@
 * [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
 ————————————————————               
 【多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWRT分叉](https://github.com/Lienol/openwrt) 。推荐喜爱自定义更多用户使用】：           
-* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)       
+* [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)      
+或      
+* [x86_64 passwallOpenWRT软路由固件GitHub同步分发地址(只同步分发多插件版本)](https://github.com/boduoyejieyi666/passwallOpenWRT/releases)         
 ————————————————————        
 【多插件版本采用 [openclash](https://github.com/vernesong/OpenClash) + [Lean/lede](https://github.com/coolsnowwolf/lede) 。推荐动手能力超强喜爱究极自定义的专业用户使用】：      
 * [x86_64 clashOpenWRT软路由固件频道](https://t.me/clashOpenWRT233)          
