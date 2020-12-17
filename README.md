@@ -9,7 +9,9 @@
 * 下方ssrpOpenWRT、passwallOpenWRT固件，分别为ssrp、passwall插件开发者认证的半官方发布固件       
 ———————————————————-                 
 【多插件版本采用 [ssrp](https://github.com/fw876/helloworld) 所属 [原生OpenWRT分叉](https://github.com/coolsnowwolf/lede) 。推荐小白及不爱折腾用户使用】：              
-* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)           
+* [x86_64 ssrpOpenWRT软路由固件频道](https://t.me/ssrpOpenWRT)      
+或      
+* [x86_64 ssrpOpenWRT软路由固件GitHub同步分发地址](https://github.com/boduoyejieyi666/ssrpOpenWRT/releases)      
 ————————————————————               
 【多插件版本采用 [passwall](https://github.com/xiaorouji/openwrt-passwall) 所属 [原生OpenWRT分叉](https://github.com/Lienol/openwrt) 。推荐喜爱自定义更多用户使用】：           
 * [x86_64 passwallOpenWRT软路由固件频道](https://t.me/passwallOpenWRT233)      
