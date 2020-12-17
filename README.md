@@ -30,6 +30,7 @@
 * [Hyird倾情打造源安装插件OpenWRT固件](./youlian/Hyird1.md)               
 * [专注Pi/派固件](./youlian/Pi.md)        
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)         
-* passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群          
+* passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群    
+* [可以看到openclash开发者vernesong发言的群](https://t.me/ctcgfw_openwrt_discuss)             
 ————————————————————            
 本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它             
