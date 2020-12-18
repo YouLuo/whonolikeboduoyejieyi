@@ -34,6 +34,7 @@
 * [ssrp开发者Lean的电报群](https://t.me/joinchat/JhKgAA6Hx1uiihA7RaTW1w)         
 * passwall初代开发者Lienol的电报群已经关闭新人入口，第二代开发者xiaorouji暂未建立交流群    
 * [可以看到openclash开发者vernesong发言的电报群](https://t.me/ctcgfw_openwrt_discuss)         
-* [奈菲影视](https://www.nfmovies.com/)        
+* [奈菲影视](https://www.nfmovies.com/)      
+* [Lean@全体成员频道（硬路由Lean潘多拉固件、BIOS、驱动、Lean魔改软件...）](https://t.me/LeanAtYou)       
 ————————————————————            
 本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它             
