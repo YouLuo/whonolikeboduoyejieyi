@@ -1,4 +1,5 @@
 # OpenWRT中国大陆分叉圈
+![OpenWrt logo](/logo.svg)    
 
 * 请有恩山账号的老手留言顶下这个 [帖子](https://www.right.com.cn/forum/thread-4053643-1-1.html) ：越过长城，走向世界！            
 * 提醒：以下链接需要翻墙访问，且最好有telegram（电报）账号登录telegram客户端           
