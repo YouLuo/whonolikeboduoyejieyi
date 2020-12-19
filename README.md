@@ -38,6 +38,7 @@
 * [可以看到openclash开发者vernesong发言的电报群](https://t.me/ctcgfw_openwrt_discuss)         
 * [奈菲影视](https://www.nfmovies.com/)      
 * [Lean@全体成员频道（硬路由Lean潘多拉固件、BIOS、驱动、Lean魔改软件...）](https://t.me/LeanAtYou)       
-* [小报频道（IT最新资讯、机场圈内幕消息...）](https://t.me/FQnews)              
+* [小报频道（IT最新资讯、机场圈内幕消息...）](https://t.me/FQnews)     
+* [东东油管频道(https://www.youtube.com/c/BIGdongdong/videos)         
 ————————————————————            
 本页面打理目前由 [Audrey](https://t.me/AudreyHB1314) 负责，有事请联系它             
